@@ -1,0 +1,7 @@
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\bin\Debug\AdapterWeb.exe.config
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\bin\Debug\AdapterWeb.exe
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\bin\Debug\AdapterWeb.pdb
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\obj\Debug\AdapterWeb.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\obj\Debug\AdapterWeb.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\obj\Debug\AdapterWeb.exe
+C:\Users\joaqu\source\repos\Examen_Joaquin_Insi\AdapterWeb\AdapterWeb\obj\Debug\AdapterWeb.pdb

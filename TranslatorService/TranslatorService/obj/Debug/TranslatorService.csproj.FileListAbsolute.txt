@@ -1,0 +1,10 @@
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\bin\Debug\TranslatorService.exe.config
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\bin\Debug\TranslatorService.exe
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\bin\Debug\TranslatorService.pdb
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\obj\Debug\TranslatorService.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\obj\Debug\TranslatorService.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\obj\Debug\Translat.D53C14FC.Up2Date
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\obj\Debug\TranslatorService.exe
+C:\Users\joaqu\source\repos\TranslatorService\TranslatorService\obj\Debug\TranslatorService.pdb

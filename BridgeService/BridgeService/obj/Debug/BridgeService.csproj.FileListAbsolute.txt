@@ -1,0 +1,13 @@
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\BridgeService.exe.config
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\BridgeService.exe
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\BridgeService.pdb
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\Apache.NMS.ActiveMQ.dll
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\Apache.NMS.dll
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\obj\Debug\BridgeService.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\obj\Debug\BridgeService.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\obj\Debug\BridgeSe.5243C914.Up2Date
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\obj\Debug\BridgeService.exe
+C:\Users\joaqu\source\repos\BridgeService\BridgeService\obj\Debug\BridgeService.pdb

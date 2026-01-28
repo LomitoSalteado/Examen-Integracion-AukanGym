@@ -1,0 +1,7 @@
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\bin\Debug\AdapterXML.exe.config
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\bin\Debug\AdapterXML.exe
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\bin\Debug\AdapterXML.pdb
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\obj\Debug\AdapterXML.csproj.AssemblyReference.cache
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\obj\Debug\AdapterXML.csproj.CoreCompileInputs.cache
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\obj\Debug\AdapterXML.exe
+C:\Users\joaqu\source\repos\AdapterXML\AdapterXML\obj\Debug\AdapterXML.pdb
